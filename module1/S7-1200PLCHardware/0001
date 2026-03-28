@@ -1,0 +1,5 @@
+In this module, we will introduce the essential hardware components of the S7-1200 PLC, explaining how its processor works and processes instructions. You will also explore how to wire the PLC, the different input/output wiring types, and how to convert electrical schematics into ladder diagrams for programming.
+Learning Objectives
+Identify the essential hardware components of the S7-1200 PLC.
+Analyze the functioning of the S7-1200 PLC processor and its instruction processing.
+Evaluate the different wiring configurations for PLC input/output and memory structure.
