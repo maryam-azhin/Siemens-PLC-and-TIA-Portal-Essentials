@@ -33,4 +33,6 @@ Learning Objectives:
 Understand the S7-1200 hardware and TIA Portal environment.
 Learn foundational PLC programming operations like bit logic, timers, counters, and math.
 Begin building troubleshooting and control logic skills.
+Resources:
 https://github.com/PacktPublishing/Learn-S7-1200-PLC-and-HMI-from-Scratch-Basic-
+https://wiki.codeandcompile.com/factory-automation/plc/siemens/s7-1200-basic
